@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Archisha Sinha
 ======================================================================================================================================
 
-AI Engineer
+Artificial Intelligence Engineer
 -----------
 
 I am an Artificial Intelligence Engineer. I Create Smart Solutions for Complex Challenges. Apart from that if you want to know more about me then here's my LinkedIn: https://www.linkedin.com/in/archisha-sinha-449924242/
